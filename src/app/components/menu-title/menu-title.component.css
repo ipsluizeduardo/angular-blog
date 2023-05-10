@@ -1,0 +1,9 @@
+.container_menu-stitle{
+    color: white;
+}
+
+.container_menu-stitle > h1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 135px;
+}
